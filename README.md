@@ -4,4 +4,4 @@ Project 1: Building An Equal-Weight S&P 500 Index Fund
 Theory & Concepts  
 Project 2: Building A Quantitative Momentum Investing Strategy  
 Theory & Concepts  
-project 3: Building A Quantitative Value Investing Strategy  
+Project 3: Building A Quantitative Value Investing Strategy  
